@@ -1,5 +1,4 @@
 ### Hi there 👋
-- 🔭 I’m currently working on java script
 - 🌱 I’m currently learning html
 - ⚡ Fun fact: i am small pro and noob 😂
 
