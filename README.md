@@ -1,4 +1,7 @@
 ### Hi there 👋
+- 🔭 I’m currently working on java script
+- 🌱 I’m currently learning html
+- ⚡ Fun fact: i am small pro and noob 😂
 
 <!--
 **sanleesam/sanleesam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
