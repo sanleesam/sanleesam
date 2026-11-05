@@ -1,22 +1,9 @@
-### Hi there 👋
-- 🎓 Student
-- 🌱 I’m currently learning html
-- ⚡ Fun fact: Love building projects and learning new technologies
-- 🔭 I’m currently working on java script
-- 🤔 I’m looking for help with C++
-- 🤖 Exploring AI tools like Cursor and Codex
+### Hey there 👋
 
-<!--
-**sanleesam/sanleesam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 Just a student who likes messing around with tech
+- 💻 I enjoy coding and building random projects
+- 🌱 Currently learning Lua, Roblox Studio, Python and JavaScript
+- 🤖 Exploring AI tools like Claude and Codex
+- 🎮 Into gaming and pretty much anything tech-related
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on java script
-- 🌱 I’m currently learning html
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Still learning, still figuring things out :)
